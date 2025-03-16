@@ -1,3 +1,4 @@
+<!-- Implementation using options API -->
 <script>
   export default {
     data() {
